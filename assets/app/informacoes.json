@@ -1,0 +1,25 @@
+{
+  "mainTitle": "Seu servidor online em poucos passos",
+  "infos": [
+    {
+      "icon": "fa-solid fa-rabbit-running",
+      "title": "Velocidade",
+      "description": "Tempo é dinheiro e não desperdiçamos dinheiro. Nossa rede brasileira garantirá alta velocidade consistente e uma latência estável."
+    },
+    {
+      "icon": "fa-solid fa-window",
+      "title": "Uptime",
+      "description": "Abordamos as interrupções com uma mentalidade de confiança no cliente, fornecendo relatórios de transparência total."
+    },
+    {
+      "icon": "fa-solid fa-grid-2",
+      "title": "Características",
+      "description": "Temos as habilidades e os recursos para mantê-lo à frente do jogo com recursos novos e exclusivos."
+    },
+    {
+      "icon": "fa-solid fa-shield-check",
+      "title": "Segurança",
+      "description": "Operamos sob uma mentalidade de “presumir violação”, sempre tomando medidas para revisar e melhorar a segurança."
+    }
+  ]
+}

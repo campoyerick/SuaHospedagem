@@ -1,0 +1,48 @@
+{
+  "sections": [
+    {
+      "title": "Serviços",
+      "links": [
+        {
+          "text": "Minecraft Bargain",
+          "url": "#"
+        },
+        {
+          "text": "Minecraft Premium",
+          "url": "#"
+        },
+        {
+          "text": "Palworld",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "title": "Links Úteis",
+      "links": [
+        {
+          "text": "Status",
+          "url": "#"
+        },
+        {
+          "text": "Central de ajuda",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "title": "Redes sociais",
+      "links": [
+        {
+          "text": "Discord",
+          "url": "#"
+        },
+        {
+          "text": "Instagram",
+          "url": "#"
+        }
+      ]
+    }
+  ],
+  "copyrightText": "© SuaHospedagem - Todos os direitos reservados"
+}

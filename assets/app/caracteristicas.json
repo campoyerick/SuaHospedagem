@@ -1,0 +1,34 @@
+{
+  "features": [
+    {
+      "title": "O SUPORTE QUE VOCÊ PRECISA",
+      "heading": "Não esquente mais a sua cabeça",
+      "highlight": "Ela vai chamar sua atenção.",
+      "description": "Aqui vai o conteúdo explicativo da primeira característica. Algo envolvente e interessante que justifica sua importância.",
+      "buttonText": "Saiba mais",
+      "buttonLink": "#link1",
+      "imageSrc": "https://via.placeholder.com/500x500",
+      "imageAlt": "Imagem genérica"
+    },
+    {
+      "title": "PROCESSADORES DE PONTA",
+      "heading": "Durma tranquilo com seu servidor em nossas mãos",
+      "highlight": "",
+      "description": "E aqui, outra explicação fascinante, desta vez com um pouco mais de contexto para adicionar profundidade ao recurso apresentado.",
+      "buttonText": "Veja nossos planos",
+      "buttonLink": "#link2",
+      "imageSrc": "https://via.placeholder.com/500x500",
+      "imageAlt": "Imagem genérica"
+    }, 
+    {
+      "title": "PROCESSADORES DE PONTA",
+      "heading": "Durma tranquilo com seu servidor em nossas mãos",
+      "highlight": "voce pode adicionar highlight.",
+      "description": "E aqui, outra explicação fascinante, desta vez com um pouco mais de contexto para adicionar profundidade ao recurso apresentado.",
+      "buttonText": "Veja nossos planos",
+      "buttonLink": "#link3",
+      "imageSrc": "https://via.placeholder.com/500x500",
+      "imageAlt": "Imagem genérica"
+    }
+  ]
+}

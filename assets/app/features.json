@@ -1,0 +1,28 @@
+{
+  "initialText": {
+   "title": "Por que escolher nossa hospedagem?",
+   "description": "Descubra os motivos pelos quais nossa solução de hospedagem é a escolha ideal para o seu site. Oferecemos desempenho superior, segurança robusta e suporte dedicado."
+  },
+  "features": [
+   {
+    "title": "Alta Performance",
+    "description": "Serviços otimizados para oferecer a melhor performance possível.",
+    "icon": "fa-solid fa-rocket"
+   },
+   {
+    "title": "Segurança Garantida",
+    "description": "Implementamos as melhores práticas de segurança para proteger seus dados.",
+    "icon": "fa-solid fa-shield-alt"
+   },
+   {
+    "title": "Seus dados está comigo!",
+    "description": "Implementamos as melhores práticas de segurança para proteger seus dados.",
+    "icon": "bi bi-archive-fill"
+   },
+   {
+    "title": "Apple nossa amiga",
+    "description": "Implementamos as melhores práticas de segurança para proteger seus dados.",
+    "icon": "bi bi-apple"
+   }
+  ]
+ }

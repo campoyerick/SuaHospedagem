@@ -1,0 +1,7 @@
+{
+  "cupom": "aa",
+  "mensagens": {
+    "sucesso": "Cupom copiado com sucesso!",
+    "erro": "Não há nenhum cupom disponível."
+  }
+}

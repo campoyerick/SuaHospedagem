@@ -1,0 +1,179 @@
+* {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ body {
+  height: 100vh;
+  font-family: "Poppins", sans-serif;
+  background-color: #0c0c0c;
+ }
+ 
+ ::selection {
+  background-color: rgb(25, 185, 94);
+  color: white;
+ }
+ 
+ body::-webkit-scrollbar-thumb {
+  background-color: rgb(0 255 110);
+  border-radius: 20px;
+  border: 3px solid #0c0c0c;
+ }
+ 
+ body::-webkit-scrollbar {
+  width: 12px;
+  /* width of the entire scrollbar */
+ }
+ 
+ body::-webkit-scrollbar-track {
+  background: #0c0c0c;
+ }
+ 
+ .btn-primary {
+  box-shadow: 0px 0px 11px #00ff6e70;
+  background-color: rgb(0 255 110);
+  border: none;
+  font-weight: 600;
+ }
+ 
+ .btn-primary:hover {
+  background-color: rgb(56, 255, 142);
+ }
+ 
+ .btn:hover {
+  background-color: rgb(56, 255, 142) !important;
+ }
+ 
+ .nav-link {
+  color: #8d8d8d;
+ }
+ 
+ .nav-link:hover {
+  color: rgb(56, 255, 142) !important;
+ }
+ 
+ .navbarativada {
+  color: rgb(0 255 110) !important;
+ }
+ 
+ .feature-icon {
+  box-shadow: 0px 0px 11px #00ff6e70;
+  background-color: rgb(0 255 110) !important;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 0.75rem;
+ }
+ 
+ .feature-icon:hover {
+  background-color: rgb(56, 255, 142) !important;
+ }
+ 
+ .textobranco {
+  color: white !important;
+ }
+ 
+ .textosegundari {
+  color: #a7a7a7 !important;
+ }
+ 
+ .textomarcado {
+  color: rgb(0 255 110) !important;
+  font-weight: 600;
+ }
+ 
+ .textodecima {
+  color: rgb(0 255 110) !important;
+ }
+ 
+ .testimonial {
+  border: solid 0.5px #00ff6e70;
+  background-color: #101010; /* Cor de fundo do cartão */
+  color: #ffffff; /* Cor do texto */
+  border-radius: 15px; /* Cantos arredondados */
+ }
+ .testimonial-heading {
+  color: #ffffff;
+ }
+ 
+ .avatar {
+  width: 60px;
+  height: 60px;
+ }
+ 
+ .testimonial + .testimonial {
+  margin-left: 30px;
+ }
+ 
+ .discord-invite {
+  background-color: rgb(0 255 110); /* Cor de fundo do Discord */
+  color: white; /* Cor do texto */
+  border-radius: 15px; /* Cantos arredondados */
+  padding: 2rem; /* Espaçamento interno */
+  text-align: center; /* Alinhamento do texto */
+ }
+ .discord-invite .btn {
+  background-color: white; /* Cor de fundo do botão */
+  color: rgb(0 255 110); /* Cor do texto do botão */
+  font-weight: bold; /* Peso da fonte do botão */
+ }
+ 
+ .discord-invite .btn:hover {
+  background-color: white !important; /* Cor de fundo do botão */
+  color: rgb(0 255 110) !important; /* Cor do texto do botão */
+  font-weight: bold !important; /* Peso da fonte do botão */
+ }
+ 
+ .title-underline {
+  border-bottom: 4px solid rgb(0 255 110);
+  border-radius: 15px;
+  width: 39px;
+  display: block;
+  margin-bottom: 20px;
+ }
+ 
+ footer a {
+  text-decoration: none;
+ }
+ 
+ footer a:hover {
+  color: rgb(56, 255, 142) !important;
+ }
+ 
+ .v-center-left {
+  display: flex;
+  align-items: center; /* Isso alinha o conteúdo verticalmente ao centro */
+  height: 100%; /* Isso garante que a div ocupe toda a altura do seu container pai */
+ }
+ .v-center-left > * {
+  text-align: left; /* Isso garante que o conteúdo dentro da div esteja alinhado à esquerda */
+ }
+ 
+ .fixed-top-banner {
+  background-color: rgb(25, 185, 94); /* Cor de fundo do anúncio */
+  color: white; /* Cor do texto do anúncio */
+  padding: 10px 0; /* Espaçamento interno do anúncio */
+  text-align: center; /* Alinhamento do texto do anúncio */
+ }
+ 
+ /* Estilo padrão para todas as notificações */
+ .notification {
+  display: none; /* Inicialmente oculto */
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  font-weight: 600;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  z-index: 1000;
+  transition: background-color 0.5s;
+ }
+ 
+ .notification-success {
+  background-color: rgb(25, 185, 94);
+ }
+ 
+ .notification-error {
+  background-color: rgb(255, 80, 80);
+ }
+ 

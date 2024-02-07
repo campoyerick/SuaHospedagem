@@ -1,0 +1,42 @@
+{
+  "heading": "Por que inventar se nossos clientes falam por nós mesmos?",
+  "subheading": "Confira as experiências que foram proporcionadas por nós!",
+  "testimonials": [
+    {
+      "name": "Cliente 1",
+      "role": "Cliente SuaHost",
+      "avatar": "https://via.placeholder.com/60",
+      "testimonial": "Suporte muito rápido, ótima host, muitas opções dentro da própria máquina, fez meu servidor melhorar muito no quesito desempenho e a conexão com os players, ficou bem melhor."
+    },
+    {
+      "name": "Cliente 2",
+      "role": "Cliente SuaHost",
+      "avatar": "https://via.placeholder.com/60",
+      "testimonial": "Hospedagem muito boa, zero lag, ótimo valor e suporte extremamente rápido, médias de ping de 20-50 e nenhuma dor de cabeça. Super recomendo!"
+    }, 
+    {
+      "name": "Cliente 2",
+      "role": "Cliente SuaHost",
+      "avatar": "https://via.placeholder.com/60",
+      "testimonial": "Hospedagem muito boa, zero lag, ótimo valor e suporte extremamente rápido, médias de ping de 20-50 e nenhuma dor de cabeça. Super recomendo!"
+    },
+    {
+      "name": "Cliente 2",
+      "role": "Cliente SuaHost",
+      "avatar": "https://via.placeholder.com/60",
+      "testimonial": "Hospedagem muito boa, zero lag, ótimo valor e suporte extremamente rápido, médias de ping de 20-50 e nenhuma dor de cabeça. Super recomendo!"
+    },
+    {
+      "name": "Cliente 2",
+      "role": "Cliente SuaHost",
+      "avatar": "https://via.placeholder.com/60",
+      "testimonial": "Hospedagem muito boa, zero lag, ótimo valor e suporte extremamente rápido, médias de ping de 20-50 e nenhuma dor de cabeça. Super recomendo!"
+    },
+    {
+      "name": "Cliente 2",
+      "role": "Cliente SuaHost",
+      "avatar": "https://via.placeholder.com/60",
+      "testimonial": "Hospedagem muito boa, zero lag, ótimo valor e suporte extremamente rápido, médias de ping de 20-50 e nenhuma dor de cabeça. Super recomendo!"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "menuItems": [
+    {
+      "text": "Início",
+      "link": "#inicio"
+    },
+    {
+      "text": "Hospedagem",
+      "link": "#hospedagem"
+    },
+    {
+      "text": "Central de Ajuda",
+      "link": "#ajuda"
+    }
+  ],
+  "buttonText": "50% OFF Para Novos Clientes"
+}
